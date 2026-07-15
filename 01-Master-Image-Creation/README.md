@@ -109,3 +109,10 @@ This provides:
 The next phase of the project is:
 
 **02 - Azure Compute Gallery and Custom Image Management**
+## Implementation Screenshots
+
+### AVD Master Virtual Machine
+
+The following screenshot shows the Azure virtual machine used as the base master image for the Azure Virtual Desktop environment.
+
+![AVD Master Virtual Machine](AVD%20Master.png)
