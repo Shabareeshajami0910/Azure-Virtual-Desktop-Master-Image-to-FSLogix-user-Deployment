@@ -79,8 +79,3 @@ This enables:
 - Faster deployment of additional session hosts
 - Easier image lifecycle management
 
-## Next Step
-
-The next phase of the project is:
-
-**03 - Azure Virtual Desktop Host Pool Deployment**
